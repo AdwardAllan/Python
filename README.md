@@ -1,0 +1,2 @@
+# Python
+ syudy python note
